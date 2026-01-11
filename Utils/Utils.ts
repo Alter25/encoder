@@ -39,7 +39,7 @@ export default class Utils {
       "Z",
     ];
     const resultado: string[] = [];
-    
+
     return resultado.join(" ");
   }
   get Valor() {
